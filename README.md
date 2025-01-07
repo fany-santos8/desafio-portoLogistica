@@ -121,8 +121,6 @@ Este projeto consiste no desenvolvimento de uma página web responsiva utilizand
 - **Seção Contatos**: Exibe um formulário para envio de mensagens e uma galeria de imagens.
 - **Footer**: Inclui informações básicas de rodapé.
 
-![Layout do Projeto](https://media.giphy.com/media/1zRicS9nBCYZC4w3t4/giphy.gif)
-
 ## Funcionalidades
 
 - **Design Responsivo**: Adaptado para dispositivos móveis, tablets, notebooks e desktops.
@@ -164,8 +162,6 @@ assets/
 - Adicionar animações para transições suaves entre seções.
 - Implementar acessibilidade (A11y) para melhorar a usabilidade do site para todos os usuários.
 - Integrar funcionalidades de backend para envio de formulários.
-
-![Futuro do Projeto](https://media.giphy.com/media/3ohhwzfp2qgJ3lYTHK/giphy.gif)
 
 ---
 
